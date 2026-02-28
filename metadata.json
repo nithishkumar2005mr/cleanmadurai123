@@ -1,0 +1,5 @@
+{
+  "name": "Clean Madurai",
+  "description": "Smart Civic Intelligence Platform for Madurai city. Report issues, track resolution, and analyze civic trends.",
+  "requestFramePermissions": ["geolocation"]
+}
